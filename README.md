@@ -19,8 +19,8 @@ Tools: IntelliJ IDEA, Git, Linux.</br>
 Dive deeper into robotics and automation.</br>
 Expand my skills in data analytics and machine learning.
 <h2>📫 Get in Touch</h2>
-🌐 LinkedIn: Your LinkedIn </br>
-📧 Email: your.email@example.com </br>
+🌐 LinkedIn: <a href="https://www.linkedin.com/in/dilharapjayawardhana"> Click Here </a> </br>
+📧 Email: dilhara5287@gmail.com </br>
 Feel free to explore my repositories and collaborate on exciting projects! 🚀
 
 <!---
