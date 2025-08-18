@@ -13,8 +13,7 @@ I enjoy exploring the intersection of technology and problem-solving to create i
 Dive deeper into robotics and automation.</br>
 Expand my skills in data analytics and machine learning.
 
-<h2>📫 Get in Touch</h2>
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/http://behance.net/dilharaprasanna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/diljay698) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dilharajay369/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilharapjayawardhana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilhara5287@gmail.com) 
 
 # 💻 Tech Stack:
